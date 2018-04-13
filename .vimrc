@@ -16,6 +16,8 @@ set history=700
 set autoread
 
 " Color scheme
+set t_ut=
+let g:solarized_termcolors=256
 set background=dark
 colorscheme solarized
 
